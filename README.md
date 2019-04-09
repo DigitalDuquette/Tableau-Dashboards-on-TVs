@@ -21,3 +21,9 @@ For URL, only add the dashboard/viewName
 Publish in the App Deploy network folder
 
 //NF2/AppDeploy/Tableau/Miscellany/Dashboards/location/viewname.html
+
+### Setup TV
+
+Install Chrome and place in Kiosk mode.
+
+Set homepage to the URL created above where the .html file is stored.
